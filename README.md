@@ -1,0 +1,2 @@
+# movieBuddyClone
+MovieBuddy Application
